@@ -12,4 +12,4 @@ The first notebook `Data Collection.ipynb` has information on how to retrieve la
 
 ## Recommendation Algorithm Notebook
 
-The second notebook contains an implementation of the recommendation algorithm using the data collected from the first notebook.
+The second notebook contains an implementation of the recommendation algorithm which will calculate request, limit values for cpu and memory for containers using their perf data. These recommendations will improve resource utilisation/performance/stability by addressing underprovsioning and overprovisioning of resources.
