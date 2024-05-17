@@ -8,7 +8,7 @@ The project is focused on an optmization for container sizes. This is achieved b
 
 ## Data Collection Notebook
 
-The first notebook 1.Data Collection.ipynb has information on how to retrieve large result data sets from azure log analytics workspace and the KQL queries neccessary to obtain this perf data.
+The first notebook `Data Collection.ipynb` has information on how to retrieve large result data sets from azure log analytics workspace and the KQL queries necessary to obtain this perf data.
 
 ## Recommendation Algorithm Notebook
 
