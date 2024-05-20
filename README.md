@@ -8,8 +8,8 @@ The project is focused on an optmization for container sizes. This is achieved b
 
 ## Data Collection Notebook
 
-The first notebook `Data Collection.ipynb` has information on how to retrieve large result data sets from azure log analytics workspace and the KQL queries necessary to obtain this perf data.
+The first notebook `Data_Collection.ipynb` has information on how to retrieve large result data sets from azure log analytics workspace and the KQL queries necessary to obtain this perf data.
 
 ## Recommendation Algorithm Notebook
 
-The second notebook contains an implementation of the recommendation algorithm which will calculate request, limit values for cpu and memory for containers using their perf data. These recommendations will improve resource utilisation/performance/stability by addressing underprovsioning and overprovisioning of resources.
+The second notebook `Resource_Recommendation_Algorithm.ipynb` contains an implementation of the recommendation algorithm which will calculate request, limit values for cpu and memory for containers using their perf data. These recommendations will improve resource utilisation/performance/stability by addressing underprovsioning and overprovisioning of resources.
